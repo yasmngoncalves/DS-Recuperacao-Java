@@ -1,0 +1,6 @@
+br\edu\etec\myproject\model\PassagemEconomica.class
+br\edu\etec\myproject\model\Passagem.class
+br\edu\etec\myprojet\test\TesteReservas.class
+br\edu\etec\myproject\model\PassagemExecutiva.class
+br\edu\etec\myproject\model\PassagemPrime.class
+br\edu\etec\myproject\model\ValorPassagemInvalidoException.class
