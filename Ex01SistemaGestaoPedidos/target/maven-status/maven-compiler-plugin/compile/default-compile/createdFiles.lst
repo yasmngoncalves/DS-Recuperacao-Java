@@ -1,0 +1,8 @@
+br\edu\etec\pedidos\exceptions\PrecoInvalidoException.class
+br\edu\etec\pedidos\exceptions\QuantidadeInvalidaException.class
+br\edu\etec\pedidos\model\Pedido.class
+br\edu\etec\pedidos\model\Roupa.class
+br\edu\etec\pedidos\model\Produto.class
+br\edu\etec\pedidos\main\TestePedidos.class
+br\edu\etec\pedidos\model\Livro.class
+br\edu\etec\pedidos\model\Eletronico.class
